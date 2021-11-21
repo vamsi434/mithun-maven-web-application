@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.67.37:8081/#browse/browse:wallmart-releases/</url>
+	      <url>http://13.233.59.5:8081/#browse/browse:wallmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.67.37:8081/#browse/browse:wallmart-snapshot/</url>
+	      <url>http://13.233.59.5:8081/#browse/browse:wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
